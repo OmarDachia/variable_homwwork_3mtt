@@ -1,0 +1,1 @@
+#ExerciseBuild a condition that will check if a number is divisible by 3 or not.Hint: You can use a mathematical expression called modulo, which when used, returns the remainder from the division between two numbers. In Python, modulo is represented by %. For example:5 % 3 = 271 % 5 = 1
